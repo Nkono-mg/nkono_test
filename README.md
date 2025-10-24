@@ -18,3 +18,6 @@ npm start
 
 Le serveur démarre par défaut sur :
 👉 http://localhost:3000
+
+Dépôt git public:
+https://github.com/Nkono-mg/nkono_test.git
