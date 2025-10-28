@@ -1,0 +1,13 @@
+.perspective {
+  @include verticalCenter;
+  flex-direction: column;
+}
+h1.title_perspective {
+  @include title_h1;
+}
+p.content_perspective {
+  text-align: justify;
+  margin-left: 30px;
+  margin-right: 30px;
+  letter-spacing: 2px;
+}

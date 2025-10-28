@@ -1,11 +1,9 @@
-import React from 'react'
-import DataList from './pages/DataList'
-
+import Navbar from "./pages/Navbar";
 
 export default function App() {
   return (
-    <div>
-     <DataList />
+    <div className="p-6 text-center">
+      <Navbar />
     </div>
-  )
+  );
 }
